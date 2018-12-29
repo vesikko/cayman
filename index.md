@@ -32,6 +32,10 @@ Sähköpostiosoitteeni on muotoa etunimi.sukunimi@helsinki.fi.
 
 [Cmdline-course](https://github.com/vesikko/cmdline-course): Helsingin yliopiston komentorivikurssin harjoitustehtävä, jossa loin ohjelmavaraston GitHubiin. Projekti sisältää muutaman Python- ja bash-skriptin, joilla muokataan tekstitiedostoja.
 
+## Ansioluettelo
+
+[Curriculum Vitae](assets/documents/Your_new_CV.pdf)
+
 ## Muita linkkejä
 
 [Solunetti, Suomen virtuaaliyliopisto](http://www.solunetti.fi/fi/)
