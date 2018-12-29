@@ -8,6 +8,8 @@ layout: default
 
 Vapaa-ajallani harrastan maantie- ja maastopyöräilyä sekä boulderkiipeilyä. Pyörällä ja julkisilla kulkuneuvoilla taitan myös koulu- ja työmatkoja, mutta talvisin pidän kuntoa yllä sisäpyöräilemällä.
 
+> "Life is like riding a bicycle. To keep your balance you must keep moving." _- Albert Einstein_
+
 ## Löydät minut täältä
 
 [GitHub](https://github.com/vesikko)
