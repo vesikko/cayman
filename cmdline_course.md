@@ -73,6 +73,15 @@ Syvennetään komentorivitaitoja ja opetellaan manipuloimaan tekstitiedostoja
 tutkimuskäyttöön. Tutuiksi tulevat komennot mm. `sed`, `grep` ja ´tr´ja se, miten
 näitä ja muita komentoja voi kirjoittaa yhdeksi ketjuksi.
 
+```
+$ echo "hei jamppa!" | sed "s/hei/tsau/"
+tsau jamppa!
+```
+Komentoriville on kirjoitettu kaksi peräkkäistä komentoa, jotka yhdistetään |-merkillä.
+Echo-komennon ulostulona olisi "hei jamppa!", mutta se syötetään sed-komennon sisääntulolle.
+_Sed_ muuttaa ensimmäisen löytämänsä hei-sanan tsau-sanaksi, minkä tuloksena saamme
+"tsau jamppa!".
+
 ## 4. viikko: Skriptien kirjoittaminen ja UNIXin ympäristömuuttujat
 
 Kirjoitetaan ensimmäiset skriptit, jotka käsittelevät tutkittavia tekstitiedostoja.
