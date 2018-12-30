@@ -96,6 +96,17 @@ Opitaan perusteet ohjelmien tallentamisesta, käynnistämisestä ja kirjastoista
 Perehdytään käyttämään Git-versionhallintaa ja GitHub-verkkosivuston ohjelmavarastoja.
 Tavoitteena on oppia perusteet kehitysprojektien työkulusta.
 
+```
+$ git add -A
+$ git commit -m "<Infoviesti>"
+$ git push origin <branch>
+```
+Yläpuolella on esitelty tärkeä osa Git-työnkulkua. Komento `add -A` lisää kaikki
+oksaan (branch) tehdyt muutokset välitilaan, josta ne on vielä hyväksyttävä komennolla
+`commit`. Commit-komennon mukana annetaan lyhyt selostus tehdyistä muutoksista: `$
+commit -m "Vaihdoin profiilikuvani."`. Push-komennolla tallennetaan tehdyt muutokset
+osaksi ulkoista ohjelmavarastoa (remote repository).
+
 ## Verkkosivun rakentaminen GitHub-sivujen avulla
 
 Syvennetään Git-taitoja ja opetellaan kirjoittamaan Markdown-tiedostoja.
