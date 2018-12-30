@@ -35,7 +35,13 @@ Taulukossa on muutamia navigointiin tarvittavia komentoja.
 | **ls**       | `$ ls`           | Listaa hakemiston tiedostot |
 | **cd**       | `$ cd ..`        | Siirrytään ylempään hakemistoon |
 | **cd**       | `$ cd <hakemisto>` | Siirrytään argumenttina annettuun hakemistoon |
-| **mkdir**    | `$ mkdir <nimi>` | Luo uuden hakemiston, jonka nimi annetaan argumenttina |
+| **pwd**    | `$ pwd` | 'Print Working Directory' näyttää nykyisen työhakemiston |
+
+Alla oleva komento luo karhu-nimisen hakemiston. Hakemistoihin voi sijoittaa tiedostoja
+ja uusia hakemistoja.
+```
+$ mkdir karhu
+```
 
 ## 2. viikko: UNIX-järjestelmä
 
@@ -49,5 +55,14 @@ listaa hakemiston tiedostoista. Nyt tiedän, miten oman koneen ja ulkoisen palve
 välillä voi siirtää tiedostoja hyödyntämällä komentoa `scp`.
 
 ```
-chmod 777 esimerkki.txt
+$ chmod 777 esimerkki.txt
 ```
+Komento antaa luku-, kirjoitus- ja suoritusoikeudet esimerkki-tekstitiedostoon
+kaikille käyttäjille. Alla listattuna muita annettavia oikeuksia:
+
+* 400
+  - Tiedosto on vain omistajan luettavissa
+* 002
+  - Kaikki voivat muokata tiedostoa
+* 010
+  - Vain ryhmän jäsenet voivat suorittaa tiedoston
