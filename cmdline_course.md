@@ -66,3 +66,27 @@ kaikille käyttäjille. Alla listattuna muita annettavia oikeuksia:
   - Kaikki voivat muokata tiedostoa
 * 010
   - Vain ryhmän jäsenet voivat suorittaa tiedoston
+
+## 3. viikko: Korpusten käsittelyä
+
+Syvennetään komentorivitaitoja ja opetellaan manipuloimaan tekstitiedostoja
+tutkimuskäyttöön. Tutuiksi tulevat komennot mm. `sed`, `grep` ja ´tr´ja se, miten
+näitä ja muita komentoja voi kirjoittaa yhdeksi ketjuksi.
+
+## 4. viikko: Skriptien kirjoittaminen ja UNIXin ympäristömuuttujat
+
+Kirjoitetaan ensimmäiset skriptit, jotka käsittelevät tutkittavia tekstitiedostoja.
+Tutustutaan .bashrc-tiedostoon ja sen tehtäviin Bash-komentotulkin toiminnassa.
+
+## 5. viikko: Ohjelmien tallennus ja käynnistys
+
+Opitaan perusteet ohjelmien tallentamisesta, käynnistämisestä ja kirjastoista.
+
+## 6. viikko: Versionhallinta
+
+Perehdytään käyttämään Git-versionhallintaa ja GitHub-verkkosivuston ohjelmavarastoja.
+Tavoitteena on oppia perusteet kehitysprojektien työkulusta.
+
+## Verkkosivun rakentaminen GitHub-sivujen avulla
+
+Syvennetään Git-taitoja ja opetellaan kirjoittamaan Markdown-tiedostoja.
