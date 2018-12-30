@@ -90,3 +90,8 @@ Tavoitteena on oppia perusteet kehitysprojektien työkulusta.
 ## Verkkosivun rakentaminen GitHub-sivujen avulla
 
 Syvennetään Git-taitoja ja opetellaan kirjoittamaan Markdown-tiedostoja.
+
+On hyvä muistaa, ettei sivujen kehittäminen ole koskaan täysin suoraviivaista puuhaa,
+kuten kuva alapuolella kertoo.
+
+![Virheilmoitus: page not found](assets/images/not_found.jpg "Virheilmoitus")
